@@ -1,0 +1,35 @@
+BEGIN
+END
+READ
+WRITE
+IF
+THEN
+ELSE
+ENDIF
+WHILE
+ENDWHILE
+GOTO
+AND
+OR
+ID
+INTEGER
+LEXICAL ERROR 
+(
+)
+;
+, 
+:=
++
+-
+*
+/
+<
+<=
+>
+>=
+=
+<>
+NOT
+
+gcc file_util.h main.c file_util.c -o g4p1
+gcc -std=c11 file_util.h main.c file_util.c -o g4p1
